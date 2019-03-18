@@ -1,4 +1,1 @@
-# weather
-# Weather
-# WeatherT
 # WeatherT
